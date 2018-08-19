@@ -1,0 +1,2 @@
+# ajakyo
+blog
